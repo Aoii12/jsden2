@@ -1,0 +1,20 @@
+.btn {
+    display: flex;
+    justify-content: center;
+    border:1px solid #000;
+    border-radius: 20px;
+    cursor:pointer;
+    transition: all linear .3s;
+    margin: 0 auto;
+    padding: 10px 20px;
+    border: 1зч;
+    background-image: none; 
+    background: transparent;
+    float: left;
+    background-color: transparent;
+}
+
+h4{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+}
